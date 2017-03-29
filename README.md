@@ -11,3 +11,5 @@ This will install NPM packages and update the Meteor packages used in the projec
 To initialize the app run:
 
     $ meteor
+
+//En general me parece que está bien el codigo, organizado, indentado y no se ven muchos errores.
